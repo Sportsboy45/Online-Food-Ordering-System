@@ -1,23 +1,27 @@
-# Online-Food-Ordering-System
-🍔 Console-based Java application for food ordering with cart management &amp; MySQL integration.
+# 🍔 Online Food Ordering System (Java + MySQL)
+
+A console-based application that allows users to order food, manage cart, and store order history using Java and MySQL.
+
+---
 
 ## ✨ Features
-- View Food Menu
-- Add to Cart
-- Place Order
-- Order History
-- MySQL database for data storage
+
+- 📋 View dynamic food menu
+- 🛒 Add items to cart
+- ✅ Place orders with confirmation
+- 🗂 Order history stored in MySQL
+- 🧩 Modular code using OOPs (Object-Oriented Programming)
+
+---
 
 ## 🛠 Tech Stack
-- Java (JDK 17)
-- MySQL
-- JDBC
-- OOP Concepts
 
-## 🚀 How to Run
-1. Clone this repo
-2. Import `database.sql` to MySQL
-3. Compile and run `Main.java`
+- ☕ Java (JDK 17)
+- 🐬 MySQL (XAMPP or standalone)
+- 🔌 JDBC (Java Database Connectivity)
+- 💻 Console-based UI
 
-## 👨‍💻 Author
-Made by Rahul Kumar — Final Year IT Student @ REC Azamgarh
+---
+
+## 📦 Folder Structure
+
